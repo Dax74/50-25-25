@@ -2,7 +2,7 @@
 A banner for Discourse
 
 ### Desktop view
-<img src="https://i.imgur.com/cYrBpZY.png">
+<img src="https://i.imgur.com/5odHL5L.png">
 
 ### Mobile view - Portrait
 <img src="https://i.imgur.com/bW44rud.gif">
