@@ -8,6 +8,7 @@ A banner for Discourse
 <img src="https://i.imgur.com/bW44rud.gif">
 
 ### Mobile view - Landscape
+<img src="https://i.imgur.com/Y0gzjlu.gif">
 
 
 See details here: {link}
