@@ -144,7 +144,6 @@
 .responsive-img {
   border-style: none;
   border-width: 1px;
-  width: 70px;
   height: 70px;
   background-size: cover;
   background-position: center center;
@@ -156,12 +155,4 @@
 
 .feature-list {
   text-align: left;
-}
-
-//MOBILE DEVICES
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 800px) {
-  .col2, .col3, .col4, .col5 {
-    width: 100%;
-  }
 }
