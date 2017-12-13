@@ -11,9 +11,12 @@
 
 .banner-box {
   margin-bottom: 20px;
-  background-image: url("https://forum.adunanza.net/uploads/default/original/2X/1/1c632b84d0cd129f8b146f1ef86c558ae38ea65a.jpg"), cover;
-  background-color: #FBDE9C;
-  /* to be sure that even if the image above will not be loaded there will be at least a colored background */
+  background-image: url("https://forum.adunanza.net/uploads/default/original/2X/1/1c632b84d0cd129f8b146f1ef86c558ae38ea65a.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #FBDE9C; /* to be sure that even if the image above will not be loaded there will be at least a colored background */
 }
 
 .x-title {
@@ -143,6 +146,10 @@
   border-width: 1px;
   width: 70px;
   height: 70px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 //LIST ALIGNMENT
